@@ -1,0 +1,67 @@
+about:
+  description: A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+  license: MIT
+  homepage: https://rioterm.com
+  head: 3572816
+  archived: false
+  latestVersion: v0.5.26
+  collectedAt: 2026-08-29T07:16:20Z
+timeline:
+  created: 2022-10-05
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-23
+popularity:
+  star: 7417
+  watcher: 30
+  fork: 336
+  release: 141
+  contributor: 136
+  pullRequest: 256
+  issue: 1052
+language:
+  Rust: 7266699
+  Slang: 37056
+  GLSL: 32835
+  Metal: 31420
+  C: 31191
+  Python: 28468
+  WGSL: 27565
+  Shell: 17631
+  C++: 13261
+  Makefile: 8292
+  Nix: 5760
+  HTML: 400
+totalLine: 7500578
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 21
+    mergedPR: 44
+    openPR: 15
+    closedIssue: 10
+    openIssue: 27
+    commit: 221
+  last90d:
+    since: 2026-05-31
+    release: 30
+    mergedPR: 82
+    openPR: 50
+    closedIssue: 33
+    openIssue: 49
+    commit: 403
+  last180d:
+    since: 2026-03-02
+    release: 48
+    mergedPR: 109
+    openPR: 68
+    closedIssue: 103
+    openIssue: 87
+    commit: 867
+  last360d:
+    since: 2025-09-03
+    release: 56
+    mergedPR: 150
+    openPR: 77
+    closedIssue: 167
+    openIssue: 108
+    commit: 1143
