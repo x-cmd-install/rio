@@ -1,0 +1,220 @@
+about:
+  description: "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers."
+  license: MIT
+  homepage: https://rioterm.com
+  head: cd64f8b
+  archived: false
+  latestVersion: "v0.5.27"
+  collectedAt: 2026-09-07T04:44:38Z
+timeline:
+  created: 2022-10-05
+  lastCommit: 2026-09-06
+  lastRelease: 2026-08-30
+popularity:
+  star: 7461
+  watcher: 32
+  fork: 343
+  release: 142
+  contributor: 138
+  pullRequest: 784
+  issue: 1062
+language:
+  Rust: 7335022
+  Slang: 37056
+  C: 34091
+  GLSL: 32835
+  Metal: 31420
+  Python: 28468
+  WGSL: 27565
+  Shell: 17631
+  C++: 13261
+  Makefile: 8292
+  Nix: 5760
+  HTML: 400
+totalBytes: 7571801
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 9
+    mergedPR: 28
+    openPR: 15
+    closedIssue: 7
+    openIssue: 21
+    commit: 58
+  last60d:
+    since: 2026-07-09
+    release: 28
+    mergedPR: 73
+    openPR: 40
+    closedIssue: 23
+    openIssue: 44
+    commit: 357
+  last90d:
+    since: 2026-06-09
+    release: 30
+    mergedPR: 81
+    openPR: 52
+    closedIssue: 32
+    openIssue: 53
+    commit: 392
+  last180d:
+    since: 2026-03-11
+    release: 49
+    mergedPR: 110
+    openPR: 72
+    closedIssue: 107
+    openIssue: 91
+    commit: 853
+  last360d:
+    since: 2025-09-12
+    release: 57
+    mergedPR: 150
+    openPR: 79
+    closedIssue: 171
+    openIssue: 113
+    commit: 1154
+  last720d:
+    since: 2024-09-17
+    release: 91
+    mergedPR: 338
+    openPR: 88
+    closedIssue: 459
+    openIssue: 185
+    commit: 2218
+total:
+  release: 142
+  mergedPR: 524
+  openPR: 88
+  closedIssue: 857
+  openIssue: 205
+  commit: 4685
+---
+path: /home/runner/.x-repo/github.com/raphamorim/rio
+collectedAt: 2026-09-07T04:45:21Z
+loc:
+  Rust:
+    code: 155753
+    comments: 13615
+    blanks: 20509
+    files: 447
+  Svg:
+    code: 14227
+    comments: 0
+    blanks: 0
+    files: 2
+  Toml:
+    code: 1218
+    comments: 101
+    blanks: 94
+    files: 20
+  Python:
+    code: 580
+    comments: 39
+    blanks: 80
+    files: 2
+  Glsl:
+    code: 555
+    comments: 240
+    blanks: 101
+    files: 12
+  WGSL:
+    code: 550
+    comments: 164
+    blanks: 107
+    files: 7
+  Metal:
+    code: 517
+    comments: 219
+    blanks: 98
+    files: 3
+  Sh:
+    code: 426
+    comments: 67
+    blanks: 60
+    files: 10
+  CHeader:
+    code: 402
+    comments: 231
+    blanks: 73
+    files: 3
+  Xml:
+    code: 355
+    comments: 0
+    blanks: 10
+    files: 1
+  Bitbake:
+    code: 211
+    comments: 76
+    blanks: 41
+    files: 2
+  Makefile:
+    code: 182
+    comments: 22
+    blanks: 49
+    files: 4
+  Nix:
+    code: 177
+    comments: 10
+    blanks: 14
+    files: 2
+  C:
+    code: 102
+    comments: 5
+    blanks: 15
+    files: 1
+  Json:
+    code: 15
+    comments: 0
+    blanks: 0
+    files: 1
+  Html:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 993
+    blanks: 293
+    files: 14
+total:
+  code: 175507
+  comments: 30272
+  blanks: 23591
+  files: 532
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:45:22+00:00
+  platform:
+    darwin/arm64:
+      name:  rio-installer-aarch64.msi
+      url:   https://github.com/raphamorim/rio/releases/download/v0.5.27/rio-installer-aarch64.msi
+      size:  8986624
+      score: 20
+    darwin/amd64:
+      name:  rio-installer-x86_64.msi
+      url:   https://github.com/raphamorim/rio/releases/download/v0.5.27/rio-installer-x86_64.msi
+      size:  9662464
+      score: 20
+    linux/arm64:
+      name:  rio-installer-aarch64.msi
+      url:   https://github.com/raphamorim/rio/releases/download/v0.5.27/rio-installer-aarch64.msi
+      size:  8986624
+      score: 20
+    linux/amd64:
+      name:  rio-installer-x86_64.msi
+      url:   https://github.com/raphamorim/rio/releases/download/v0.5.27/rio-installer-x86_64.msi
+      size:  9662464
+      score: 20
+    win/arm64:
+      name:  rio-installer-aarch64.msi
+      url:   https://github.com/raphamorim/rio/releases/download/v0.5.27/rio-installer-aarch64.msi
+      size:  8986624
+      score: 20
+    win/amd64:
+      name:  rio-installer-x86_64.msi
+      url:   https://github.com/raphamorim/rio/releases/download/v0.5.27/rio-installer-x86_64.msi
+      size:  9662464
+      score: 20
