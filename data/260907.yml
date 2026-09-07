@@ -2,21 +2,21 @@ about:
   description: "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers."
   license: MIT
   homepage: https://rioterm.com
-  head: cd64f8b
+  head: 7ae0875
   archived: false
   latestVersion: "v0.5.27"
-  collectedAt: 2026-09-07T04:44:38Z
+  collectedAt: 2026-09-07T19:46:01Z
 timeline:
   created: 2022-10-05
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-30
 popularity:
-  star: 7461
+  star: 7465
   watcher: 32
-  fork: 343
+  fork: 344
   release: 142
-  contributor: 138
-  pullRequest: 784
+  contributor: 139
+  pullRequest: 787
   issue: 1062
 language:
   Rust: 7335022
@@ -36,61 +36,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 9
-    mergedPR: 28
-    openPR: 15
+    mergedPR: 29
+    openPR: 16
     closedIssue: 7
     openIssue: 21
-    commit: 58
+    commit: 59
   last60d:
     since: 2026-07-09
     release: 28
-    mergedPR: 73
-    openPR: 40
+    mergedPR: 74
+    openPR: 41
     closedIssue: 23
     openIssue: 44
-    commit: 357
+    commit: 358
   last90d:
     since: 2026-06-09
     release: 30
-    mergedPR: 81
-    openPR: 52
+    mergedPR: 82
+    openPR: 53
     closedIssue: 32
     openIssue: 53
-    commit: 392
+    commit: 393
   last180d:
     since: 2026-03-11
     release: 49
-    mergedPR: 110
-    openPR: 72
+    mergedPR: 111
+    openPR: 73
     closedIssue: 107
     openIssue: 91
-    commit: 853
+    commit: 854
   last360d:
     since: 2025-09-12
     release: 57
-    mergedPR: 150
-    openPR: 79
+    mergedPR: 151
+    openPR: 80
     closedIssue: 171
     openIssue: 113
-    commit: 1154
+    commit: 1155
   last720d:
     since: 2024-09-17
     release: 91
-    mergedPR: 338
-    openPR: 88
+    mergedPR: 339
+    openPR: 89
     closedIssue: 459
     openIssue: 185
-    commit: 2218
+    commit: 2219
 total:
   release: 142
-  mergedPR: 524
-  openPR: 88
+  mergedPR: 525
+  openPR: 89
   closedIssue: 857
   openIssue: 205
-  commit: 4685
+  commit: 4686
 ---
 path: /home/runner/.x-repo/github.com/raphamorim/rio
-collectedAt: 2026-09-07T04:45:21Z
+collectedAt: 2026-09-07T19:46:40Z
 loc:
   Rust:
     code: 155753
@@ -186,7 +186,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:45:22+00:00
+  collectedAt: 2026-09-07T19:46:41+00:00
   platform:
     darwin/arm64:
       name:  rio-installer-aarch64.msi
