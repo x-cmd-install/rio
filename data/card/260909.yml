@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.27"
   latestRelease: "v0.5.27"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-09T04:57:03Z
+  collectedAt: 2026-09-09T19:11:13Z
 timeline:
   created: 2022-10-05
   lastCommit: 2026-09-07
@@ -15,8 +15,8 @@ timeline:
   lastRelease: 2026-08-30
   lastPrerelease: 2026-08-15
 popularity:
-  star: 7471
-  watcher: 31
+  star: 7472
+  watcher: 32
   fork: 344
   release: 142
   contributor: 139
@@ -94,7 +94,7 @@ total:
   commit: 4686
 ---
 path: /home/runner/.x-repo/github.com/raphamorim/rio
-collectedAt: 2026-09-09T04:57:41Z
+collectedAt: 2026-09-09T19:11:52Z
 loc:
   Rust:
     code: 155753
