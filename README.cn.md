@@ -4,7 +4,7 @@
 
 A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
-![rio](https://repo.x-cmd.io/rio.svg)
+![rio](https://repo.x-cmd.io/rio.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,41 @@ x install rio
 - **最新版本**: `v0.5.27` (2026-08-30)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 14 个
-- **发布时间**: 2026-08-30T19:59:35Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/raphamorim/rio/releases/download/v0.5.27/checksums.txt) | 1.2 KiB | `other` |
+| [rio-installer-aarch64.msi](https://github.com/raphamorim/rio/releases/download/v0.5.27/rio-installer-aarch64.msi) | 8.6 MiB | `other` |
+| [rio-installer-x86_64.msi](https://github.com/raphamorim/rio/releases/download/v0.5.27/rio-installer-x86_64.msi) | 9.2 MiB | `other` |
+| [rio-portable-aarch64.exe](https://github.com/raphamorim/rio/releases/download/v0.5.27/rio-portable-aarch64.exe) | 21.2 MiB | `other` |
+| [rio-portable-x86_64.exe](https://github.com/raphamorim/rio/releases/download/v0.5.27/rio-portable-x86_64.exe) | 23.5 MiB | `other` |
+| [rio.dmg](https://github.com/raphamorim/rio/releases/download/v0.5.27/rio.dmg) | 17.1 MiB | `other` |
+| [rioterm-0.5.27-1.aarch64_wayland.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.27/rioterm-0.5.27-1.aarch64_wayland.rpm) | 13.0 MiB | `other` |
+| [rioterm-0.5.27-1.aarch64_x11.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.27/rioterm-0.5.27-1.aarch64_x11.rpm) | 10.3 MiB | `other` |
+| [rioterm-0.5.27-1.x86_64_wayland.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.27/rioterm-0.5.27-1.x86_64_wayland.rpm) | 10.8 MiB | `other` |
+| [rioterm-0.5.27-1.x86_64_x11.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.27/rioterm-0.5.27-1.x86_64_x11.rpm) | 10.7 MiB | `other` |
+| [rioterm_0.5.27_amd64_wayland.deb](https://github.com/raphamorim/rio/releases/download/v0.5.27/rioterm_0.5.27_amd64_wayland.deb) | 10.8 MiB | `other` |
+| [rioterm_0.5.27_amd64_x11.deb](https://github.com/raphamorim/rio/releases/download/v0.5.27/rioterm_0.5.27_amd64_x11.deb) | 10.7 MiB | `other` |
+| [rioterm_0.5.27_arm64_wayland.deb](https://github.com/raphamorim/rio/releases/download/v0.5.27/rioterm_0.5.27_arm64_wayland.deb) | 13.0 MiB | `other` |
+| [rioterm_0.5.27_arm64_x11.deb](https://github.com/raphamorim/rio/releases/download/v0.5.27/rioterm_0.5.27_arm64_x11.deb) | 10.3 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 7,475 · **Fork**: 344 · **开放 issue**: 1,063 · **贡献者**: 139
+- **Star**: 7,474 · **Fork**: 345 · **开放 issue**: 1,063 · **贡献者**: 139
 
 ## 累计统计
 
-- **发布数**: 142 · **已合并 PR**: 525 · **开放 PR**: 90 · **已关闭 issue**: 857 · **开放 issue**: 206 · **提交数**: 4686
+- **发布数**: 142 · **已合并 PR**: 525 · **开放 PR**: 91 · **已关闭 issue**: 857 · **开放 issue**: 206 · **提交数**: 4686
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 9 | 18 | 14 | 6 | 17 | 59 |
-| 90d | 2026-06-12 | 29 | 82 | 54 | 28 | 52 | 393 |
-| 360d | 2025-09-15 | 56 | 150 | 81 | 171 | 112 | 1155 |
+| 30d | 2026-08-11 | 9 | 18 | 15 | 6 | 17 | 59 |
+| 90d | 2026-06-12 | 29 | 82 | 55 | 28 | 52 | 393 |
+| 360d | 2025-09-15 | 56 | 150 | 82 | 171 | 112 | 1155 |
 
 ## 代码规模
 
@@ -62,4 +80,4 @@ rio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:59:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:28:49Z._
