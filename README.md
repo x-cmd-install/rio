@@ -12,6 +12,18 @@ A hardware-accelerated GPU terminal emulator focusing to run in desktops and bro
 x install rio
 ```
 
+## Code insight
+
+Total: **175,281** lines of code across **483** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 155,753 | 13,615 | 20,509 | 447 |
+| Svg | 14,227 | 0 | 0 | 2 |
+| Toml | 1,218 | 101 | 94 | 20 |
+| Python | 580 | 39 | 80 | 2 |
+| Glsl | 555 | 240 | 101 | 12 |
+
 ## Source
 
 - **Upstream**: <https://github.com/raphamorim/rio>
@@ -23,6 +35,25 @@ x install rio
 - **Latest**: `v0.5.27` (2026-08-30)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 14
+
+## Popularity
+
+- **Stars**: 7,474 · **Forks**: 345 · **Open issues**: 1,063 · **Contributors**: 139
+
+## Totals (cumulative)
+
+- **Releases**: 142 · **Merged PRs**: 525 · **Open PRs**: 91 · **Closed issues**: 857 · **Open issues**: 206 · **Commits**: 4686
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 8 | 16 | 14 | 6 | 17 | 59 |
+| last60d | 2026-07-13 | 27 | 74 | 43 | 23 | 44 | 358 |
+| 90d | 2026-06-13 | 29 | 82 | 55 | 28 | 51 | 393 |
+| last180d | 2026-03-15 | 49 | 111 | 75 | 107 | 91 | 854 |
+| 360d | 2025-09-16 | 56 | 150 | 82 | 171 | 112 | 1155 |
+| last720d | 2024-09-21 | 89 | 335 | 91 | 455 | 186 | 2198 |
 
 ## Release assets
 
@@ -43,34 +74,6 @@ x install rio
 | [rioterm_0.5.27_arm64_wayland.deb](https://github.com/raphamorim/rio/releases/download/v0.5.27/rioterm_0.5.27_arm64_wayland.deb) | 13.0 MiB | `other` |
 | [rioterm_0.5.27_arm64_x11.deb](https://github.com/raphamorim/rio/releases/download/v0.5.27/rioterm_0.5.27_arm64_x11.deb) | 10.3 MiB | `other` |
 
-## Popularity
-
-- **Stars**: 7,474 · **Forks**: 345 · **Open issues**: 1,063 · **Contributors**: 139
-
-## Totals (cumulative)
-
-- **Releases**: 142 · **Merged PRs**: 525 · **Open PRs**: 91 · **Closed issues**: 857 · **Open issues**: 206 · **Commits**: 4686
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 9 | 18 | 15 | 6 | 17 | 59 |
-| 90d | 2026-06-12 | 29 | 82 | 55 | 28 | 52 | 393 |
-| 360d | 2025-09-15 | 56 | 150 | 82 | 171 | 112 | 1155 |
-
-## Code size
-
-Total: **175,281** lines of code across **483** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 155,753 | 13,615 | 20,509 | 447 |
-| Svg | 14,227 | 0 | 0 | 2 |
-| Toml | 1,218 | 101 | 94 | 20 |
-| Python | 580 | 39 | 80 | 2 |
-| Glsl | 555 | 240 | 101 | 12 |
-
 ## Improve this data
 
 Install metadata for rio lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `rio` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -80,4 +83,4 @@ Install metadata for rio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:28:48Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:16:52Z._
