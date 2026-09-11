@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.27"
   latestRelease: "v0.5.27"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-11T00:16:01Z
+  collectedAt: 2026-09-11T04:55:43Z
 timeline:
   created: 2022-10-05
   lastCommit: 2026-09-07
@@ -94,7 +94,7 @@ total:
   commit: 4686
 ---
 path: /home/runner/.x-repo/github.com/raphamorim/rio
-collectedAt: 2026-09-11T00:16:47Z
+collectedAt: 2026-09-11T04:56:25Z
 loc:
   Rust:
     code: 155753
