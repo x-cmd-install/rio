@@ -4,7 +4,7 @@
 
 A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
-![rio](https://repo.x-cmd.io/rio.svg)
+[![x-cmd/install — rio Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rio.svg)](https://x-cmd.com/install/rio)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **177,101** lines of code across **486** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,510 · **Forks**: 350 · **Open issues**: 1,073 · **Contributors**: 140
+- **Stars**: 7,522 · **Forks**: 353 · **Open issues**: 1,079 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 529 · **Open PRs**: 86 · **Closed issues**: 858 · **Open issues**: 215 · **Commits**: 4691
+- **Releases**: 143 · **Merged PRs**: 529 · **Open PRs**: 88 · **Closed issues**: 859 · **Open issues**: 220 · **Commits**: 4691
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 15 | 9 | 4 | 23 | 49 |
-| last60d | 2026-07-20 | 28 | 73 | 37 | 22 | 52 | 337 |
-| 90d | 2026-06-20 | 30 | 82 | 50 | 27 | 57 | 396 |
-| last180d | 2026-03-22 | 50 | 114 | 70 | 105 | 99 | 820 |
-| 360d | 2025-09-23 | 57 | 153 | 76 | 168 | 121 | 1132 |
-| last720d | 2024-09-28 | 89 | 335 | 86 | 453 | 193 | 2157 |
+| 30d | 2026-08-21 | 3 | 14 | 9 | 4 | 29 | 25 |
+| last60d | 2026-07-22 | 27 | 51 | 35 | 22 | 56 | 246 |
+| 90d | 2026-06-22 | 30 | 81 | 52 | 28 | 62 | 389 |
+| last180d | 2026-03-24 | 50 | 114 | 72 | 104 | 104 | 792 |
+| 360d | 2025-09-25 | 57 | 152 | 78 | 169 | 126 | 1108 |
+| last720d | 2024-09-30 | 89 | 334 | 88 | 454 | 198 | 2152 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for rio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:56:30Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:09:11Z._
