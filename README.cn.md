@@ -4,7 +4,7 @@
 
 A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
-[![x-cmd/install — rio Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rio.svg?lang=zh)](https://x-cmd.com/install/rio)
+[![x-cmd/install — rio Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/rio.svg?lang=zh)](https://x-cmd.com/install/rio)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install rio
 
 ## 流行度
 
-- **Star**: 7,528 · **Fork**: 354 · **开放 issue**: 1,080 · **贡献者**: 140
+- **Star**: 7,532 · **Fork**: 356 · **开放 issue**: 1,082 · **贡献者**: 140
 
 ## 累计统计
 
-- **发布数**: 143 · **已合并 PR**: 529 · **开放 PR**: 89 · **已关闭 issue**: 859 · **开放 issue**: 221 · **提交数**: 4691
+- **发布数**: 143 · **已合并 PR**: 529 · **开放 PR**: 90 · **已关闭 issue**: 859 · **开放 issue**: 223 · **提交数**: 4691
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 13 | 10 | 4 | 28 | 25 |
-| last60d | 2026-07-24 | 26 | 51 | 28 | 21 | 53 | 246 |
-| 90d | 2026-06-24 | 30 | 81 | 51 | 26 | 63 | 389 |
-| last180d | 2026-03-26 | 50 | 114 | 73 | 103 | 105 | 792 |
-| 360d | 2025-09-27 | 56 | 151 | 79 | 169 | 126 | 1108 |
-| last720d | 2024-10-02 | 89 | 334 | 89 | 454 | 199 | 2152 |
+| 30d | 2026-08-24 | 2 | 12 | 11 | 3 | 30 | 25 |
+| last60d | 2026-07-25 | 26 | 51 | 25 | 21 | 53 | 246 |
+| 90d | 2026-06-25 | 30 | 81 | 47 | 26 | 65 | 389 |
+| last180d | 2026-03-27 | 50 | 114 | 74 | 102 | 107 | 792 |
+| 360d | 2025-09-28 | 56 | 150 | 80 | 168 | 128 | 1108 |
+| last720d | 2024-10-03 | 89 | 334 | 90 | 454 | 201 | 2152 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ rio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:06:28Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:10:58Z._

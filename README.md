@@ -4,7 +4,7 @@
 
 A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 
-[![x-cmd/install — rio Code Quality Monitoring Repo Card](https://repo.x-cmd.io/rio.svg)](https://x-cmd.com/install/rio)
+[![x-cmd/install — rio Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/rio.svg)](https://x-cmd.com/install/rio)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **177,101** lines of code across **486** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,528 · **Forks**: 354 · **Open issues**: 1,080 · **Contributors**: 140
+- **Stars**: 7,532 · **Forks**: 356 · **Open issues**: 1,082 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 529 · **Open PRs**: 89 · **Closed issues**: 859 · **Open issues**: 221 · **Commits**: 4691
+- **Releases**: 143 · **Merged PRs**: 529 · **Open PRs**: 90 · **Closed issues**: 859 · **Open issues**: 223 · **Commits**: 4691
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 13 | 10 | 4 | 28 | 25 |
-| last60d | 2026-07-24 | 26 | 51 | 28 | 21 | 53 | 246 |
-| 90d | 2026-06-24 | 30 | 81 | 51 | 26 | 63 | 389 |
-| last180d | 2026-03-26 | 50 | 114 | 73 | 103 | 105 | 792 |
-| 360d | 2025-09-27 | 56 | 151 | 79 | 169 | 126 | 1108 |
-| last720d | 2024-10-02 | 89 | 334 | 89 | 454 | 199 | 2152 |
+| 30d | 2026-08-24 | 2 | 12 | 11 | 3 | 30 | 25 |
+| last60d | 2026-07-25 | 26 | 51 | 25 | 21 | 53 | 246 |
+| 90d | 2026-06-25 | 30 | 81 | 47 | 26 | 65 | 389 |
+| last180d | 2026-03-27 | 50 | 114 | 74 | 102 | 107 | 792 |
+| 360d | 2025-09-28 | 56 | 150 | 80 | 168 | 128 | 1108 |
+| last720d | 2024-10-03 | 89 | 334 | 90 | 454 | 201 | 2152 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for rio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:06:27Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:10:56Z._
