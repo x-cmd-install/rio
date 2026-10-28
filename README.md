@@ -38,22 +38,22 @@ Total: **177,214** lines of code across **486** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,651 · **Forks**: 372 · **Open issues**: 1,097 · **Contributors**: 140
+- **Stars**: 7,655 · **Forks**: 372 · **Open issues**: 1,097 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 531 · **Open PRs**: 104 · **Closed issues**: 859 · **Open issues**: 238 · **Commits**: 4694
+- **Releases**: 143 · **Merged PRs**: 531 · **Open PRs**: 103 · **Closed issues**: 859 · **Open issues**: 238 · **Commits**: 4694
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 2 | 15 | 0 | 15 | 3 |
-| last60d | 2026-08-28 | 2 | 8 | 25 | 4 | 42 | 25 |
-| 90d | 2026-07-29 | 23 | 53 | 38 | 18 | 65 | 238 |
-| last180d | 2026-04-30 | 37 | 99 | 84 | 60 | 104 | 463 |
-| 360d | 2025-11-01 | 54 | 142 | 95 | 151 | 140 | 998 |
-| last720d | 2024-11-06 | 88 | 319 | 103 | 417 | 209 | 1976 |
+| 30d | 2026-09-28 | 0 | 2 | 15 | 0 | 13 | 3 |
+| last60d | 2026-08-29 | 2 | 8 | 23 | 4 | 41 | 25 |
+| 90d | 2026-07-30 | 23 | 53 | 36 | 18 | 65 | 238 |
+| last180d | 2026-05-01 | 37 | 99 | 83 | 59 | 102 | 463 |
+| 360d | 2025-11-02 | 54 | 141 | 94 | 151 | 140 | 998 |
+| last720d | 2024-11-07 | 88 | 319 | 102 | 415 | 209 | 1975 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for rio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:11:10Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:44:26Z._
