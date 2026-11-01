@@ -14,13 +14,13 @@ x install rio
 
 ## Code insight
 
-Total: **178,640** lines of code across **486** files in the top 5 languages.
+Total: **179,168** lines of code across **487** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 159,042 | 13,531 | 20,545 | 450 |
+| Rust | 159,564 | 13,491 | 20,584 | 451 |
 | Svg | 14,227 | 0 | 0 | 2 |
-| Toml | 1,219 | 101 | 94 | 20 |
+| Toml | 1,222 | 101 | 95 | 20 |
 | Python | 580 | 39 | 80 | 2 |
 | Glsl | 555 | 240 | 101 | 12 |
 
@@ -32,50 +32,50 @@ Total: **178,640** lines of code across **486** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.28` (2026-09-17)
-- **Last commit**: 2026-10-30
+- **Latest**: `v0.5.29` (2026-11-01)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 7,689 · **Forks**: 372 · **Open issues**: 1,101 · **Contributors**: 140
+- **Stars**: 7,691 · **Forks**: 373 · **Open issues**: 1,101 · **Contributors**: 141
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 536 · **Open PRs**: 102 · **Closed issues**: 861 · **Open issues**: 240 · **Commits**: 4699
+- **Releases**: 144 · **Merged PRs**: 540 · **Open PRs**: 98 · **Closed issues**: 862 · **Open issues**: 239 · **Commits**: 4704
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 7 | 14 | 0 | 16 | 8 |
-| last60d | 2026-09-01 | 1 | 12 | 21 | 2 | 39 | 30 |
-| 90d | 2026-08-02 | 21 | 55 | 35 | 16 | 66 | 243 |
-| last180d | 2026-05-04 | 35 | 100 | 80 | 54 | 105 | 468 |
-| 360d | 2025-11-05 | 52 | 146 | 93 | 149 | 143 | 1003 |
-| last720d | 2024-11-10 | 88 | 323 | 101 | 414 | 209 | 1974 |
+| 30d | 2026-10-02 | 1 | 11 | 13 | 0 | 16 | 11 |
+| last60d | 2026-09-02 | 2 | 16 | 19 | 2 | 39 | 18 |
+| 90d | 2026-08-03 | 22 | 54 | 31 | 17 | 63 | 131 |
+| last180d | 2026-05-05 | 36 | 104 | 76 | 55 | 104 | 460 |
+| 360d | 2025-11-06 | 53 | 150 | 89 | 150 | 142 | 998 |
+| last720d | 2024-11-11 | 89 | 327 | 97 | 415 | 208 | 1978 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/raphamorim/rio/releases/download/v0.5.28/checksums.txt) | 1.2 KiB | `other` |
-| [librio.a](https://github.com/raphamorim/rio/releases/download/v0.5.28/librio.a) | 32.4 MiB | `other` |
-| [librio.h](https://github.com/raphamorim/rio/releases/download/v0.5.28/librio.h) | 18.3 KiB | `other` |
-| [rio-installer-aarch64.msi](https://github.com/raphamorim/rio/releases/download/v0.5.28/rio-installer-aarch64.msi) | 8.6 MiB | `other` |
-| [rio-installer-x86_64.msi](https://github.com/raphamorim/rio/releases/download/v0.5.28/rio-installer-x86_64.msi) | 9.2 MiB | `other` |
-| [rio-portable-aarch64.exe](https://github.com/raphamorim/rio/releases/download/v0.5.28/rio-portable-aarch64.exe) | 21.2 MiB | `other` |
-| [rio-portable-x86_64.exe](https://github.com/raphamorim/rio/releases/download/v0.5.28/rio-portable-x86_64.exe) | 23.5 MiB | `other` |
-| [rio.dmg](https://github.com/raphamorim/rio/releases/download/v0.5.28/rio.dmg) | 17.1 MiB | `other` |
-| [RioKit.xcframework.zip](https://github.com/raphamorim/rio/releases/download/v0.5.28/RioKit.xcframework.zip) | 11.7 MiB | `other` |
-| [rioterm-0.5.28-1.aarch64_wayland.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.28/rioterm-0.5.28-1.aarch64_wayland.rpm) | 13.0 MiB | `other` |
-| [rioterm-0.5.28-1.aarch64_x11.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.28/rioterm-0.5.28-1.aarch64_x11.rpm) | 10.3 MiB | `other` |
-| [rioterm-0.5.28-1.x86_64_wayland.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.28/rioterm-0.5.28-1.x86_64_wayland.rpm) | 10.8 MiB | `other` |
-| [rioterm-0.5.28-1.x86_64_x11.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.28/rioterm-0.5.28-1.x86_64_x11.rpm) | 10.7 MiB | `other` |
-| [rioterm_0.5.28_amd64_wayland.deb](https://github.com/raphamorim/rio/releases/download/v0.5.28/rioterm_0.5.28_amd64_wayland.deb) | 10.8 MiB | `other` |
-| [rioterm_0.5.28_amd64_x11.deb](https://github.com/raphamorim/rio/releases/download/v0.5.28/rioterm_0.5.28_amd64_x11.deb) | 10.7 MiB | `other` |
-| [rioterm_0.5.28_arm64_wayland.deb](https://github.com/raphamorim/rio/releases/download/v0.5.28/rioterm_0.5.28_arm64_wayland.deb) | 13.0 MiB | `other` |
-| [rioterm_0.5.28_arm64_x11.deb](https://github.com/raphamorim/rio/releases/download/v0.5.28/rioterm_0.5.28_arm64_x11.deb) | 10.3 MiB | `other` |
+| [checksums.txt](https://github.com/raphamorim/rio/releases/download/v0.5.29/checksums.txt) | 1.2 KiB | `other` |
+| [librio.a](https://github.com/raphamorim/rio/releases/download/v0.5.29/librio.a) | 33.3 MiB | `other` |
+| [librio.h](https://github.com/raphamorim/rio/releases/download/v0.5.29/librio.h) | 18.3 KiB | `other` |
+| [rio-installer-aarch64.msi](https://github.com/raphamorim/rio/releases/download/v0.5.29/rio-installer-aarch64.msi) | 8.6 MiB | `other` |
+| [rio-installer-x86_64.msi](https://github.com/raphamorim/rio/releases/download/v0.5.29/rio-installer-x86_64.msi) | 9.2 MiB | `other` |
+| [rio-portable-aarch64.exe](https://github.com/raphamorim/rio/releases/download/v0.5.29/rio-portable-aarch64.exe) | 21.1 MiB | `other` |
+| [rio-portable-x86_64.exe](https://github.com/raphamorim/rio/releases/download/v0.5.29/rio-portable-x86_64.exe) | 23.4 MiB | `other` |
+| [rio.dmg](https://github.com/raphamorim/rio/releases/download/v0.5.29/rio.dmg) | 17.9 MiB | `other` |
+| [RioKit.xcframework.zip](https://github.com/raphamorim/rio/releases/download/v0.5.29/RioKit.xcframework.zip) | 11.8 MiB | `other` |
+| [rioterm-0.5.29-1.aarch64_wayland.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.29/rioterm-0.5.29-1.aarch64_wayland.rpm) | 13.3 MiB | `other` |
+| [rioterm-0.5.29-1.aarch64_x11.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.29/rioterm-0.5.29-1.aarch64_x11.rpm) | 10.6 MiB | `other` |
+| [rioterm-0.5.29-1.x86_64_wayland.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.29/rioterm-0.5.29-1.x86_64_wayland.rpm) | 11.2 MiB | `other` |
+| [rioterm-0.5.29-1.x86_64_x11.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.29/rioterm-0.5.29-1.x86_64_x11.rpm) | 11.2 MiB | `other` |
+| [rioterm_0.5.29_amd64_wayland.deb](https://github.com/raphamorim/rio/releases/download/v0.5.29/rioterm_0.5.29_amd64_wayland.deb) | 10.8 MiB | `other` |
+| [rioterm_0.5.29_amd64_x11.deb](https://github.com/raphamorim/rio/releases/download/v0.5.29/rioterm_0.5.29_amd64_x11.deb) | 10.7 MiB | `other` |
+| [rioterm_0.5.29_arm64_wayland.deb](https://github.com/raphamorim/rio/releases/download/v0.5.29/rioterm_0.5.29_arm64_wayland.deb) | 12.9 MiB | `other` |
+| [rioterm_0.5.29_arm64_x11.deb](https://github.com/raphamorim/rio/releases/download/v0.5.29/rioterm_0.5.29_arm64_x11.deb) | 10.3 MiB | `other` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for rio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:43:24Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:10:23Z._
