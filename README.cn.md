@@ -14,11 +14,11 @@ x install rio
 
 ## 代码洞察
 
-合计: **181,752** 行代码（覆盖前 5 种语言、共 **488** 个文件）。
+合计: **183,368** 行代码（覆盖前 5 种语言、共 **489** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 162,117 | 13,555 | 20,823 | 452 |
+| Rust | 163,539 | 13,669 | 20,959 | 453 |
 | Svg | 14,227 | 0 | 0 | 2 |
 | Toml | 1,222 | 101 | 95 | 20 |
 | Python | 580 | 39 | 80 | 2 |
@@ -32,50 +32,52 @@ x install rio
 
 ## 发布
 
-- **最新版本**: `v0.5.31` (2026-11-13)
-- **最近提交**: 2026-11-13
-- **Release 含资产**: 17 个
+- **最新版本**: `v0.5.32` (2026-11-15)
+- **最近提交**: 2026-11-14
+- **Release 含资产**: 19 个
 
 ## 流行度
 
-- **Star**: 7,735 · **Fork**: 383 · **开放 issue**: 1,110 · **贡献者**: 143
+- **Star**: 7,741 · **Fork**: 385 · **开放 issue**: 1,110 · **贡献者**: 143
 
 ## 累计统计
 
-- **发布数**: 146 · **已合并 PR**: 551 · **开放 PR**: 108 · **已关闭 issue**: 863 · **开放 issue**: 247 · **提交数**: 4716
+- **发布数**: 147 · **已合并 PR**: 556 · **开放 PR**: 107 · **已关闭 issue**: 866 · **开放 issue**: 244 · **提交数**: 4721
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 3 | 21 | 16 | 0 | 18 | 23 |
-| last60d | 2026-09-15 | 4 | 23 | 28 | 1 | 38 | 30 |
-| 90d | 2026-08-16 | 6 | 39 | 36 | 8 | 59 | 78 |
-| last180d | 2026-05-18 | 36 | 113 | 86 | 46 | 110 | 467 |
-| 360d | 2025-11-19 | 54 | 156 | 99 | 149 | 149 | 981 |
-| last720d | 2024-11-24 | 88 | 325 | 107 | 396 | 209 | 1936 |
+| 30d | 2026-10-16 | 5 | 24 | 16 | 2 | 15 | 28 |
+| last60d | 2026-09-16 | 6 | 26 | 29 | 3 | 35 | 30 |
+| 90d | 2026-08-17 | 8 | 40 | 37 | 10 | 55 | 64 |
+| last180d | 2026-05-19 | 37 | 118 | 85 | 49 | 107 | 462 |
+| 360d | 2025-11-20 | 55 | 161 | 98 | 152 | 146 | 983 |
+| last720d | 2024-11-25 | 89 | 329 | 106 | 396 | 204 | 1939 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/raphamorim/rio/releases/download/v0.5.31/checksums.txt) | 1.2 KiB | `other` |
-| [librio.a](https://github.com/raphamorim/rio/releases/download/v0.5.31/librio.a) | 33.4 MiB | `other` |
-| [librio.h](https://github.com/raphamorim/rio/releases/download/v0.5.31/librio.h) | 20.3 KiB | `other` |
-| [rio-installer-aarch64.msi](https://github.com/raphamorim/rio/releases/download/v0.5.31/rio-installer-aarch64.msi) | 8.6 MiB | `other` |
-| [rio-installer-x86_64.msi](https://github.com/raphamorim/rio/releases/download/v0.5.31/rio-installer-x86_64.msi) | 9.2 MiB | `other` |
-| [rio-portable-aarch64.exe](https://github.com/raphamorim/rio/releases/download/v0.5.31/rio-portable-aarch64.exe) | 21.2 MiB | `other` |
-| [rio-portable-x86_64.exe](https://github.com/raphamorim/rio/releases/download/v0.5.31/rio-portable-x86_64.exe) | 23.5 MiB | `other` |
-| [rio.dmg](https://github.com/raphamorim/rio/releases/download/v0.5.31/rio.dmg) | 17.1 MiB | `other` |
-| [RioKit.xcframework.zip](https://github.com/raphamorim/rio/releases/download/v0.5.31/RioKit.xcframework.zip) | 11.9 MiB | `other` |
-| [rioterm-0.5.31-1.aarch64_wayland.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.31/rioterm-0.5.31-1.aarch64_wayland.rpm) | 13.4 MiB | `other` |
-| [rioterm-0.5.31-1.aarch64_x11.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.31/rioterm-0.5.31-1.aarch64_x11.rpm) | 10.7 MiB | `other` |
-| [rioterm-0.5.31-1.x86_64_wayland.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.31/rioterm-0.5.31-1.x86_64_wayland.rpm) | 11.3 MiB | `other` |
-| [rioterm-0.5.31-1.x86_64_x11.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.31/rioterm-0.5.31-1.x86_64_x11.rpm) | 11.1 MiB | `other` |
-| [rioterm_0.5.31_amd64_wayland.deb](https://github.com/raphamorim/rio/releases/download/v0.5.31/rioterm_0.5.31_amd64_wayland.deb) | 10.8 MiB | `other` |
-| [rioterm_0.5.31_amd64_x11.deb](https://github.com/raphamorim/rio/releases/download/v0.5.31/rioterm_0.5.31_amd64_x11.deb) | 10.7 MiB | `other` |
-| [rioterm_0.5.31_arm64_wayland.deb](https://github.com/raphamorim/rio/releases/download/v0.5.31/rioterm_0.5.31_arm64_wayland.deb) | 13.0 MiB | `other` |
-| [rioterm_0.5.31_arm64_x11.deb](https://github.com/raphamorim/rio/releases/download/v0.5.31/rioterm_0.5.31_arm64_x11.deb) | 10.3 MiB | `other` |
+| [checksums.txt](https://github.com/raphamorim/rio/releases/download/v0.5.32/checksums.txt) | 1.4 KiB | `other` |
+| [librio.a](https://github.com/raphamorim/rio/releases/download/v0.5.32/librio.a) | 33.4 MiB | `other` |
+| [librio.h](https://github.com/raphamorim/rio/releases/download/v0.5.32/librio.h) | 23.3 KiB | `other` |
+| [rio-installer-aarch64.msi](https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-installer-aarch64.msi) | 9.0 MiB | `other` |
+| [rio-installer-x86_64.msi](https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-installer-x86_64.msi) | 10.2 MiB | `other` |
+| [rio-portable-aarch64.exe](https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-portable-aarch64.exe) | 21.2 MiB | `other` |
+| [rio-portable-aarch64.zip](https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-portable-aarch64.zip) | 10.6 MiB | `other` |
+| [rio-portable-x86_64.exe](https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-portable-x86_64.exe) | 23.5 MiB | `other` |
+| [rio-portable-x86_64.zip](https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-portable-x86_64.zip) | 11.6 MiB | `other` |
+| [rio.dmg](https://github.com/raphamorim/rio/releases/download/v0.5.32/rio.dmg) | 17.1 MiB | `other` |
+| [RioKit.xcframework.zip](https://github.com/raphamorim/rio/releases/download/v0.5.32/RioKit.xcframework.zip) | 11.9 MiB | `other` |
+| [rioterm-0.5.32-1.aarch64_wayland.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.32/rioterm-0.5.32-1.aarch64_wayland.rpm) | 13.4 MiB | `other` |
+| [rioterm-0.5.32-1.aarch64_x11.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.32/rioterm-0.5.32-1.aarch64_x11.rpm) | 10.7 MiB | `other` |
+| [rioterm-0.5.32-1.x86_64_wayland.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.32/rioterm-0.5.32-1.x86_64_wayland.rpm) | 11.3 MiB | `other` |
+| [rioterm-0.5.32-1.x86_64_x11.rpm](https://github.com/raphamorim/rio/releases/download/v0.5.32/rioterm-0.5.32-1.x86_64_x11.rpm) | 11.2 MiB | `other` |
+| [rioterm_0.5.32_amd64_wayland.deb](https://github.com/raphamorim/rio/releases/download/v0.5.32/rioterm_0.5.32_amd64_wayland.deb) | 10.8 MiB | `other` |
+| [rioterm_0.5.32_amd64_x11.deb](https://github.com/raphamorim/rio/releases/download/v0.5.32/rioterm_0.5.32_amd64_x11.deb) | 10.7 MiB | `other` |
+| [rioterm_0.5.32_arm64_wayland.deb](https://github.com/raphamorim/rio/releases/download/v0.5.32/rioterm_0.5.32_arm64_wayland.deb) | 13.0 MiB | `other` |
+| [rioterm_0.5.32_arm64_x11.deb](https://github.com/raphamorim/rio/releases/download/v0.5.32/rioterm_0.5.32_arm64_x11.deb) | 10.3 MiB | `other` |
 
 ## 改进这些数据
 
@@ -86,4 +88,4 @@ rio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261114.yml` · 2026-11-14T06:32:43Z._
+_数据快照: `data/card/261115.yml` · 2026-11-15T06:35:57Z._
