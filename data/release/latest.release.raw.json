@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1409,
       "digest": "sha256:f3b72d9fe621f5be8203464df1a105024bf1e6cacd4c11cc0228ca1968c89091",
-      "download_count": 16,
+      "download_count": 29,
       "created_at": "2026-11-15T00:24:18Z",
       "updated_at": "2026-11-15T00:24:18Z",
       "browser_download_url": "https://github.com/raphamorim/rio/releases/download/v0.5.32/checksums.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9486336,
       "digest": "sha256:581afd533bc3ff8b75c42f443d124ce94c9f9e3366150e66c5076c9e2040e67e",
-      "download_count": 24,
+      "download_count": 72,
       "created_at": "2026-11-15T00:24:17Z",
       "updated_at": "2026-11-15T00:24:18Z",
       "browser_download_url": "https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-installer-aarch64.msi"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10686464,
       "digest": "sha256:b136974ce3788578527932e2daf6b6773bc3fb5af2d992d8f5c2819451cef5ad",
-      "download_count": 143,
+      "download_count": 228,
       "created_at": "2026-11-15T00:24:17Z",
       "updated_at": "2026-11-15T00:24:18Z",
       "browser_download_url": "https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-installer-x86_64.msi"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 22202368,
       "digest": "sha256:cc84ddc4493d4b9bd45d0132e4013cf080410798bf3958f062069c7af2365d0b",
-      "download_count": 50,
+      "download_count": 93,
       "created_at": "2026-11-15T00:24:16Z",
       "updated_at": "2026-11-15T00:24:17Z",
       "browser_download_url": "https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-portable-aarch64.exe"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11084312,
       "digest": "sha256:4ae38915f657e1cd9a0829a453384e23c4a0932d714a551b24fec3ab6e76a92b",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-11-15T00:24:16Z",
       "updated_at": "2026-11-15T00:24:17Z",
       "browser_download_url": "https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-portable-aarch64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 24635904,
       "digest": "sha256:33210e1a2ddc748f3ff09ddd93cb79744c9fb3094220a8f33833fb38c2cbf616",
-      "download_count": 152,
+      "download_count": 236,
       "created_at": "2026-11-15T00:24:16Z",
       "updated_at": "2026-11-15T00:24:17Z",
       "browser_download_url": "https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-portable-x86_64.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 12194357,
       "digest": "sha256:8203ab7555251d0d79f21c645f1f6f5c450e8f8ddf9fbd215d0f3905a6a335a8",
-      "download_count": 90,
+      "download_count": 135,
       "created_at": "2026-11-15T00:24:17Z",
       "updated_at": "2026-11-15T00:24:18Z",
       "browser_download_url": "https://github.com/raphamorim/rio/releases/download/v0.5.32/rio-portable-x86_64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 17956397,
       "digest": "sha256:642c6fa13e6b709450b90e49b16938752b257e835c0bf18e0510a96acc64aea3",
-      "download_count": 560,
+      "download_count": 1015,
       "created_at": "2026-11-15T00:24:14Z",
       "updated_at": "2026-11-15T00:24:15Z",
       "browser_download_url": "https://github.com/raphamorim/rio/releases/download/v0.5.32/rio.dmg"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 11363400,
       "digest": "sha256:99c503908ec4a5ecfd495ef4dcd0a982da8ffd2503beaf2f236a7faf7fe05d52",
-      "download_count": 26,
+      "download_count": 30,
       "created_at": "2026-11-15T00:24:14Z",
       "updated_at": "2026-11-15T00:24:14Z",
       "browser_download_url": "https://github.com/raphamorim/rio/releases/download/v0.5.32/rioterm_0.5.32_amd64_wayland.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 11248602,
       "digest": "sha256:4c52f1784bd01c36db16c6b2d26d6b7baf26c01597e01c4c2eee603991dab197",
-      "download_count": 28,
+      "download_count": 36,
       "created_at": "2026-11-15T00:24:15Z",
       "updated_at": "2026-11-15T00:24:16Z",
       "browser_download_url": "https://github.com/raphamorim/rio/releases/download/v0.5.32/rioterm_0.5.32_amd64_x11.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 13600466,
       "digest": "sha256:006a77892c71ebabb0026e44b693886cd5f6d795541e173c357ef7a36aa0ea4c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-15T00:24:15Z",
       "updated_at": "2026-11-15T00:24:16Z",
       "browser_download_url": "https://github.com/raphamorim/rio/releases/download/v0.5.32/rioterm_0.5.32_arm64_wayland.deb"
@@ -726,13 +726,13 @@
   "body": "**Full Changelog**: https://rioterm.com/changelog",
   "reactions": {
     "url": "https://api.github.com/repos/raphamorim/rio/releases/445699790/reactions",
-    "total_count": 3,
+    "total_count": 4,
     "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 0,
+    "heart": 1,
     "rocket": 0,
     "eyes": 0
   }
