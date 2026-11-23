@@ -14,11 +14,11 @@ x install rio
 
 ## Code insight
 
-Total: **198,595** lines of code across **499** files in the top 5 languages.
+Total: **199,548** lines of code across **499** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 178,729 | 15,037 | 22,105 | 464 |
+| Rust | 179,681 | 15,118 | 22,174 | 464 |
 | Svg | 14,227 | 0 | 0 | 2 |
 | Toml | 1,210 | 99 | 95 | 19 |
 | Python | 599 | 42 | 81 | 2 |
@@ -38,22 +38,22 @@ Total: **198,595** lines of code across **499** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,764 · **Forks**: 393 · **Open issues**: 1,121 · **Contributors**: 145
+- **Stars**: 7,765 · **Forks**: 393 · **Open issues**: 1,121 · **Contributors**: 145
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 600 · **Open PRs**: 104 · **Closed issues**: 880 · **Open issues**: 241 · **Commits**: 4766
+- **Releases**: 147 · **Merged PRs**: 601 · **Open PRs**: 104 · **Closed issues**: 882 · **Open issues**: 239 · **Commits**: 4767
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 5 | 65 | 18 | 6 | 18 | 72 |
-| last60d | 2026-09-23 | 5 | 68 | 29 | 7 | 32 | 75 |
-| 90d | 2026-08-24 | 7 | 80 | 36 | 16 | 56 | 97 |
-| last180d | 2026-05-26 | 36 | 162 | 80 | 57 | 106 | 503 |
-| 360d | 2025-11-27 | 55 | 203 | 95 | 161 | 146 | 1028 |
-| last720d | 2024-12-02 | 89 | 371 | 103 | 404 | 201 | 1980 |
+| 30d | 2026-10-24 | 5 | 66 | 18 | 8 | 16 | 73 |
+| last60d | 2026-09-24 | 5 | 69 | 27 | 8 | 30 | 76 |
+| 90d | 2026-08-25 | 7 | 80 | 36 | 18 | 54 | 98 |
+| last180d | 2026-05-27 | 36 | 163 | 80 | 59 | 103 | 504 |
+| 360d | 2025-11-28 | 55 | 204 | 95 | 163 | 144 | 1029 |
+| last720d | 2024-12-03 | 89 | 372 | 103 | 406 | 199 | 1981 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for rio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:50:10Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:45:01Z._
