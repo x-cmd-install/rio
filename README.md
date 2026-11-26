@@ -14,11 +14,11 @@ x install rio
 
 ## Code insight
 
-Total: **199,599** lines of code across **499** files in the top 5 languages.
+Total: **200,397** lines of code across **499** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 179,732 | 15,118 | 22,174 | 464 |
+| Rust | 180,503 | 15,164 | 22,231 | 464 |
 | Svg | 14,227 | 0 | 0 | 2 |
 | Toml | 1,210 | 99 | 95 | 19 |
 | Python | 599 | 42 | 81 | 2 |
@@ -33,27 +33,27 @@ Total: **199,599** lines of code across **499** files in the top 5 languages.
 ## Release
 
 - **Latest**: `nightly` (2026-11-15)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-25
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 7,768 · **Forks**: 394 · **Open issues**: 1,123 · **Contributors**: 145
+- **Stars**: 7,768 · **Forks**: 395 · **Open issues**: 1,123 · **Contributors**: 145
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 602 · **Open PRs**: 105 · **Closed issues**: 882 · **Open issues**: 241 · **Commits**: 4768
+- **Releases**: 147 · **Merged PRs**: 605 · **Open PRs**: 111 · **Closed issues**: 882 · **Open issues**: 241 · **Commits**: 4771
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 5 | 66 | 19 | 8 | 17 | 74 |
-| last60d | 2026-09-26 | 5 | 70 | 28 | 8 | 32 | 77 |
-| 90d | 2026-08-27 | 7 | 77 | 35 | 17 | 55 | 99 |
-| last180d | 2026-05-29 | 36 | 163 | 81 | 58 | 99 | 505 |
-| 360d | 2025-11-30 | 55 | 203 | 96 | 161 | 145 | 1030 |
-| last720d | 2024-12-05 | 89 | 373 | 104 | 401 | 201 | 1982 |
+| 30d | 2026-10-27 | 5 | 69 | 25 | 8 | 17 | 77 |
+| last60d | 2026-09-27 | 5 | 73 | 34 | 8 | 32 | 80 |
+| 90d | 2026-08-28 | 7 | 79 | 41 | 17 | 54 | 102 |
+| last180d | 2026-05-30 | 36 | 166 | 80 | 58 | 95 | 508 |
+| 360d | 2025-12-01 | 55 | 206 | 102 | 160 | 144 | 1033 |
+| last720d | 2024-12-06 | 89 | 376 | 110 | 401 | 201 | 1984 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for rio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:42:27Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:40:45Z._
