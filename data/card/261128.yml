@@ -1,0 +1,207 @@
+about:
+  description: "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers."
+  license: MIT
+  homepage: https://rioterm.com
+  head: f34722e
+  archived: false
+  latestVersion: "nightly"
+  latestRelease: "v0.5.32"
+  latestPrerelease: "nightly"
+  collectedAt: 2026-11-28T07:58:48Z
+timeline:
+  created: 2022-10-05
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-15
+  lastRelease: 2026-11-15
+  lastPrerelease: 2026-11-15
+popularity:
+  star: 7772
+  watcher: 29
+  fork: 400
+  release: 147
+  contributor: 145
+  pullRequest: 933
+  issue: 1124
+language:
+  Rust: 8498728
+  C: 48349
+  Slang: 37056
+  GLSL: 32835
+  Metal: 31420
+  Python: 29444
+  Shell: 28069
+  WGSL: 27565
+  C++: 13261
+  Makefile: 8292
+  Nix: 5849
+  PowerShell: 5226
+  HTML: 400
+totalBytes: 8766494
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 5
+    mergedPR: 69
+    openPR: 26
+    closedIssue: 8
+    openIssue: 16
+    commit: 78
+  last60d:
+    since: 2026-09-29
+    release: 5
+    mergedPR: 74
+    openPR: 35
+    closedIssue: 8
+    openIssue: 31
+    commit: 81
+  last90d:
+    since: 2026-08-30
+    release: 7
+    mergedPR: 79
+    openPR: 42
+    closedIssue: 14
+    openIssue: 54
+    commit: 103
+  last180d:
+    since: 2026-06-01
+    release: 36
+    mergedPR: 166
+    openPR: 81
+    closedIssue: 58
+    openIssue: 96
+    commit: 509
+  last360d:
+    since: 2025-12-03
+    release: 55
+    mergedPR: 207
+    openPR: 103
+    closedIssue: 160
+    openIssue: 145
+    commit: 1034
+  last720d:
+    since: 2024-12-08
+    release: 89
+    mergedPR: 375
+    openPR: 111
+    closedIssue: 400
+    openIssue: 201
+    commit: 1983
+total:
+  release: 147
+  mergedPR: 606
+  openPR: 112
+  closedIssue: 882
+  openIssue: 242
+  commit: 4772
+---
+path: /home/runner/.x-repo/github.com/raphamorim/rio
+collectedAt: 2026-11-28T07:59:25Z
+loc:
+  Rust:
+    code: 180606
+    comments: 15187
+    blanks: 22239
+    files: 464
+  Svg:
+    code: 14227
+    comments: 0
+    blanks: 0
+    files: 2
+  Toml:
+    code: 1210
+    comments: 99
+    blanks: 95
+    files: 19
+  Python:
+    code: 599
+    comments: 42
+    blanks: 81
+    files: 2
+  Glsl:
+    code: 555
+    comments: 240
+    blanks: 101
+    files: 12
+  WGSL:
+    code: 550
+    comments: 164
+    blanks: 107
+    files: 7
+  Metal:
+    code: 517
+    comments: 219
+    blanks: 98
+    files: 3
+  CHeader:
+    code: 496
+    comments: 349
+    blanks: 84
+    files: 3
+  Sh:
+    code: 427
+    comments: 74
+    blanks: 63
+    files: 10
+  Xml:
+    code: 373
+    comments: 0
+    blanks: 10
+    files: 1
+  Bitbake:
+    code: 211
+    comments: 76
+    blanks: 41
+    files: 2
+  Makefile:
+    code: 182
+    comments: 22
+    blanks: 49
+    files: 4
+  Nix:
+    code: 177
+    comments: 10
+    blanks: 14
+    files: 2
+  C:
+    code: 132
+    comments: 10
+    blanks: 16
+    files: 1
+  Zsh:
+    code: 126
+    comments: 71
+    blanks: 22
+    files: 2
+  PowerShell:
+    code: 72
+    comments: 34
+    blanks: 10
+    files: 2
+  Json:
+    code: 15
+    comments: 0
+    blanks: 0
+    files: 1
+  Fish:
+    code: 14
+    comments: 6
+    blanks: 3
+    files: 1
+  Html:
+    code: 11
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3158
+    blanks: 962
+    files: 16
+total:
+  code: 200863
+  comments: 36819
+  blanks: 26110
+  files: 555
+---
+
+---
